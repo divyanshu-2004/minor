@@ -1,0 +1,21 @@
+user_id,age,gender,clicked,ad_type,timestamp,device_type,browser,location,previous_clicks
+1,23,M,0,Banner,2023-07-01 12:34:56,Mobile,Chrome,New York,3
+2,34,F,1,Video,2023-07-01 12:35:00,Desktop,Firefox,San Francisco,10
+3,45,M,0,Native,2023-07-01 12:35:05,Tablet,Safari,Los Angeles,1
+4,25,F,1,Banner,2023-07-01 12:35:10,Mobile,Chrome,Chicago,5
+5,36,F,0,Video,2023-07-01 12:35:15,Desktop,Edge,Houston,7
+6,27,M,1,Native,2023-07-01 12:35:20,Tablet,Chrome,Phoenix,2
+7,38,M,0,Banner,2023-07-01 12:35:25,Mobile,Firefox,Philadelphia,4
+8,29,F,1,Video,2023-07-01 12:35:30,Desktop,Safari,San Antonio,8
+9,40,M,0,Native,2023-07-01 12:35:35,Tablet,Edge,San Diego,6
+10,31,F,1,Banner,2023-07-01 12:35:40,Mobile,Chrome,Dallas,9
+11,42,M,0,Video,2023-07-01 12:35:45,Desktop,Firefox,San Jose,11
+12,33,F,1,Native,2023-07-01 12:35:50,Tablet,Safari,Austin,3
+13,44,M,0,Banner,2023-07-01 12:35:55,Mobile,Edge,Jacksonville,5
+14,35,F,1,Video,2023-07-01 12:36:00,Desktop,Chrome,Columbus,7
+15,26,M,0,Native,2023-07-01 12:36:05,Tablet,Firefox,Fort Worth,1
+16,37,F,1,Banner,2023-07-01 12:36:10,Mobile,Safari,Indianapolis,6
+17,28,M,0,Video,2023-07-01 12:36:15,Desktop,Edge,Charlotte,4
+18,39,F,1,Native,2023-07-01 12:36:20,Tablet,Chrome,San Francisco,8
+19,30,M,0,Banner,2023-07-01 12:36:25,Mobile,Firefox,Seattle,2
+20,41,F,1,Video,2023-07-01 12:36:30,Desktop,Safari,Denver,10
